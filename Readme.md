@@ -1,9 +1,17 @@
-# 👋 Welcome to My GitHub Profile!
+# 💫 About Me
 
+<!-- Typing animation header -->
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrMEecVH/giphy.gif" width="30px"/>
-  <h3>I'm a Full Stack Developer | Creative Coder | Tech Enthusiast</h3>
-  <p>Building amazing projects and sharing knowledge with the community 🚀</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+YOUR_NAME!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+  </a>
+</div>
+
+<!-- Profile views counter (auto-increments) -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
 </div>
 
 ---
@@ -11,23 +19,20 @@
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://twitter.com/YOUR_HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/YOUR_PROFILE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="https://instagram.com/YOUR_HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://instagram.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://discord.com/users/yourID" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <a href="https://YOUR_PORTFOLIO.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </div>
 
@@ -37,165 +42,109 @@
 
 <div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Live & Auto-Updated)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourname&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&theme=radical&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 📈 Contribution Activity Graph
 
 <div align="center">
-
-### 💼 Project 1 - [Project Name](https://github.com/yourname/project1)
-A modern web application built with React and Node.js
-- 🎨 Beautiful UI with Tailwind CSS
-- ⚡ Fast and responsive
-- 🔒 Secure authentication
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/yourname/project1)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=firefox)](https://project1-demo.com)
-
----
-
-### 🎮 Project 2 - [Project Name](https://github.com/yourname/project2)
-An interactive game built with vanilla JavaScript
-- 🎯 Fun and engaging gameplay
-- 📱 Responsive design
-- 🏆 High score tracking
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/yourname/project2)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=firefox)](https://project2-demo.com)
-
----
-
-### 📱 Project 3 - [Project Name](https://github.com/yourname/project3)
-A mobile-first application for task management
-- ✅ Complete CRUD operations
-- 🌙 Dark mode support
-- 💾 Local storage persistence
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/yourname/project3)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=firefox)](https://project3-demo.com)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
 
-## 📈 Current Focus
+## 🏆 GitHub Trophies (Auto-earned)
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🚀 My Pinned Projects (Live from GitHub)
 
 <div align="center">
 
-🌱 Currently learning: **Advanced React Patterns & Web3 Development**
-
-🔭 Working on: **AI-powered Web Applications**
-
-💬 Ask me about: **Full Stack Development, JavaScript, and Open Source**
-
-⚡ Fun fact: **I love turning coffee into code! ☕**
+<!-- These cards pull live data (stars, forks, description) from your actual GitHub repos -->
+<a href="https://github.com/YOUR_USERNAME/REPO_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_1&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/YOUR_USERNAME/REPO_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_2&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/YOUR_USERNAME/REPO_3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_3&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/YOUR_USERNAME/REPO_4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_4&theme=radical&hide_border=true" />
+</a>
 
 </div>
 
 ---
 
-## 📝 Latest Blog Posts
+## ⚡ Recent GitHub Activity (Auto-updated daily)
+
+<!-- This section updates automatically via GitHub Actions -->
+<!--START_SECTION:activity-->
+<!-- Your recent activity will appear here automatically once the workflow runs -->
+<!--END_SECTION:activity-->
+
+---
+
+## 📝 Latest Blog Posts (Auto-fetched from RSS)
+
+<!-- This updates automatically from your blog's RSS feed -->
+<!-- BLOG-POST-LIST:START -->
+<!-- Your blog posts will appear here automatically once configured -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🐍 Contribution Snake (Animated)
 
 <div align="center">
-
-<!-- You can use a tool like https://github.com/gautamkrishnar/blog-post-workflow -->
-- 📄 [10 JavaScript Tips Every Developer Should Know](https://blog.example.com/js-tips)
-- 📄 [Building Scalable React Applications](https://blog.example.com/react-scalable)
-- 📄 [Web Performance Optimization Guide](https://blog.example.com/performance)
-- 📄 [Getting Started with TypeScript](https://blog.example.com/typescript)
-
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
-## 🎓 Education & Certifications
+## 💰 Support My Work
 
 <div align="center">
-
-- 🏫 **Bachelor's Degree** in Computer Science - University Name
-- 📜 **Full Stack Web Development** - Online Course Platform
-- 🎖️ **AWS Certified Developer** - Associate Level
-- 🎖️ **Google Cloud Professional** - Cloud Architect
-
-</div>
-
----
-
-## 💡 Let's Collaborate!
-
-<div align="center">
-
-I'm always interested in:
-- 🤝 Open source contributions
-- 💼 Freelance projects
-- 📚 Knowledge sharing
-- 🌟 Creating awesome things together
-
-**[📧 Get In Touch](mailto:your.email@gmail.com)** | **[💼 View My Portfolio](https://yourportfolio.com)**
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourname&theme=radical&hide_border=true)
-
+  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+  <a href="https://github.com/sponsors/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-
-### Thanks for visiting my profile! 🙏
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWoLvDt/giphy.gif" width="50px"/>
-
-**Show some ❤️ by starring my repositories!**
-
-</div>
-
----
-
-<div align="center">
-  <p>Last updated: 2024</p>
+  <i>⭐ From <a href="https://github.com/YOUR_USERNAME">YOUR_USERNAME</a> — Thanks for visiting!</i>
 </div>
